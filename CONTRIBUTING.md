@@ -20,4 +20,4 @@ Thank you for considering contributing to this repository! Here are some guideli
 
 ## Code of Conduct
 
-Please follow the [Code of Conduct](link-to-your-code-of-conduct) when contributing.
+Please follow the [Code of Conduct](./CODE_OF_CONDUCT.md) when contributing.
