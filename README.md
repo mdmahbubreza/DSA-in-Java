@@ -83,7 +83,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
 
 ## 🤝 Contributing  
 
-Contributions are welcome! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.  
+Contributions are welcome! Please see the [Code of Conduct](../../CODE_OF_CONDUCT.md) for guidelines.  
 
 ---
 
