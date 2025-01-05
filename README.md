@@ -5,8 +5,8 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
 ## 📚 Contents  
 
 ### 1. **Notes**  
-- Detailed notes on Java basics and concepts (Available in the `notes/` directory).  
-- [Java Notes PDF](./Java%20Notes.pdf)  
+- Detailed notes on Java basics and concepts (Available in the `Notes/` directory).  
+- [Java Notes PDF](./Notes/Java%20Notes.pdf)  
 
 ### 2. **DSA Concepts**  
 - **Arrays**  
@@ -57,22 +57,16 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
   - Subset Sum Problem  
 
 ### 3. **Questions**  
-- Curated problem lists categorized by difficulty and topics (Located in `questions/`).  
+- Curated problem lists categorized by difficulty and topics (Located in `Questions/`).  
 
 ### 4. **Code Snippets**  
-- Optimized code implementations for various DSA concepts (Available in `code/` directory).  
-
-### 5. **Resources**  
-- Recommended Books  
-- Online Tutorials  
+- Optimized code implementations for various DSA concepts (Available in `Code/` directory).
+ 
 
 ---
 
-## 💡 Suggested Additions  
-- **Interactive Notebooks**: Include Jupyter Notebooks with runnable Java code snippets.  
-- **LeetCode/GFG Problems**: Add a structured roadmap of problems from LeetCode and GeeksforGeeks with links and solutions.  
-- **Tests**: Include sample input/output test cases for each algorithm in a `tests/` directory.  
-- **Diagrams**: Visual explanations for algorithms and data structures.  
+## 💡 Suggested Additions   
+- **LeetCode/GFG Problems**: Add a structured roadmap of problems from LeetCode and GeeksforGeeks with links and solutions.
 
 ---
 
@@ -80,8 +74,8 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/dsa-in-java.git  
-   cd dsa-in-java  
+   git clone https://github.com/mdmahbubreza/DSA-in-Java.git  
+   cd DSA-in-Java  
    ```  
 2. Explore the directories for notes, problems, and code.  
 
