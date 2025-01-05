@@ -26,3 +26,4 @@ find Simple Interest.
 21. Volume Of Pyramid
 22. Curved Surface Area Of Cylinder
 23. Total Surface Area Of Cube
+24. Take two numbers and print the sum of both.
