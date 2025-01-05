@@ -57,10 +57,10 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
   - Subset Sum Problem  
 
 ### 3. **Questions**  
-- Curated problem lists categorized by difficulty and topics (Located in `Questions/`).  
+- Curated problem lists categorized by difficulty and topics (Located in `./Questions`).  
 
 ### 4. **Code Snippets**  
-- Optimized code implementations for various DSA concepts (Available in `Code/` directory).
+- Optimized code implementations for various DSA concepts (Available in `./Codes` directory).
  
 
 ---
