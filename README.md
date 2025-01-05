@@ -1,4 +1,4 @@
-# DSA in Java Repository  
+# DSA in Java
 
 Welcome to the **Data Structures and Algorithms in Java** repository. This repository is aimed at helping learners understand and implement DSA concepts efficiently.  
 
