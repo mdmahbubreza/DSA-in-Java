@@ -26,7 +26,10 @@ Maintainers are responsible for clarifying the standards of acceptable behavior 
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
+Instances of unacceptable behavior may be reported by contacting the project maintainers. All complaints will be reviewed and investigated, and will result in a response that is deemed necessary and appropriate to the circumstances. Maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
+
+Please reach out via the project’s Issues section or use any other available contact method to report violations.
+
 
 ## Attribution
 
