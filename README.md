@@ -81,12 +81,6 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
 
 ---
 
-## 🤝 Contributing  
-
-Contributions are welcome! Please see the [Code of Conduct](./CODE_OF_CONDUCT.md) for guidelines.  
-
----
-
 ## 📜 License  
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
