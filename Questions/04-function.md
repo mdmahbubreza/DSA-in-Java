@@ -1,4 +1,5 @@
-Write Java programs for the following:
+## Write Java programs for the following:
+
 1. Write a function to multiply 2 numbers.
 2. Write a function to calculate the factorial of a number.
 3. Write a function to calculate the product of 2 numbers.
