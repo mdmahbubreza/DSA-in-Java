@@ -1,5 +1,3 @@
-# [Codes](./Codes)
-
 ## Write Java programs for the following:
 
 1. Take name as input and print a greeting message for that particular name.
