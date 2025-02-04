@@ -16,3 +16,7 @@
 14. Write a function that calculates the Greatest Common Divisor of 2 numbers.
 15. Write a function to print Fibonacci series of n terms where n is input by user :
 0 1 1 2 3 5 8 13 21 ..... In the Fibonacci series, a number is the sum of the previous 2 numbers that came before it.
+
+## Level up..!
+
+1. Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
