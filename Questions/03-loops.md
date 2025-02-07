@@ -136,14 +136,16 @@ Because marks don’t matter but our effort does.
 </pre>
 
 <pre>
-*             *
-* *         * *
-*   *     *   *
-*     * *     *
-*     * *     *
-*   *     *   *
-* *         * *
-*             *
+*                 *
+* *             * *
+*   *         *   *
+*     *     *     *
+*       * *       *
+*       * *       *
+*     *     *     *
+*   *         *   *
+* *             * *
+*                 *
 </pre>
 
 <pre>
