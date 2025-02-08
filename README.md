@@ -77,7 +77,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
    git clone https://github.com/mdmahbubreza/DSA-in-Java.git  
    cd DSA-in-Java  
    ```  
-2. Explore the directories for notes, problems, and code.  
+2. Explore the directories for notes and questions.  
 
 ---
 
