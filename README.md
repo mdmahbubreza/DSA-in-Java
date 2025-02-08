@@ -58,11 +58,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
 
 ### 3. **Questions**  
 - Curated problem lists categorized by difficulty and topics (Located in [Questions](./Questions)).  
-
-### 4. **Code Snippets**  
-- Optimized code implementations for various DSA concepts (Available in [Codes](./Codes) directory).
  
-
 ---
 
 ## 💡 Suggested Additions   
