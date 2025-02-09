@@ -12,3 +12,9 @@
 Spiral order is given by: 15 7 9 10 11 21 41 70 105 95 81 79 70 40 15 9 6 10 12 13 20 32 68 63 59 55 25 29 30
 
 4. For a given matrix of N x M, print its transpose.
+
+
+## Leetcode questions.
+
+### Easy
+1. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
