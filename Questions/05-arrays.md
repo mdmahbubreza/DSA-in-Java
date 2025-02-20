@@ -20,3 +20,4 @@
 10. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 11. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 12. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+13. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
