@@ -18,5 +18,6 @@ Spiral order is given by: 15 7 9 10 11 21 41 70 105 95 81 79 70 40 15 9 6 10 12 
 
 ### Easy
 1. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
-2. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
-3. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+2. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+3. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+4. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
