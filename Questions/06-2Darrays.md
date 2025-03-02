@@ -23,3 +23,4 @@ Spiral order is given by: 15 7 9 10 11 21 41 70 105 95 81 79 70 40 15 9 6 10 12 
 4. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 5. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 6. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+7. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
