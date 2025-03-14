@@ -25,3 +25,4 @@
 15. [Two Sum](https://leetcode.com/problems/two-sum/)
 16. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 17. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+18. [Plus One](https://leetcode.com/problems/plus-one/)
