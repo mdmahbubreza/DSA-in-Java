@@ -26,3 +26,4 @@
 16. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 17. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 18. [Plus One](https://leetcode.com/problems/plus-one/)
+27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
