@@ -24,6 +24,9 @@
 14. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 15. [Two Sum](https://leetcode.com/problems/two-sum/)
 16. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-17. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-18. [Plus One](https://leetcode.com/problems/plus-one/)
-19. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+17. [Plus One](https://leetcode.com/problems/plus-one/)
+18. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+19. 
+
+### Medium
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
