@@ -28,3 +28,4 @@ Spiral order is given by: 15 7 9 10 11 21 41 70 105 95 81 79 70 40 15 9 6 10 12 
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
