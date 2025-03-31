@@ -76,7 +76,3 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
 2. Explore the directories for notes and questions.  
 
 ---
-
-## 📜 License  
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
