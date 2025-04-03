@@ -74,5 +74,3 @@ Welcome to the **Data Structures and Algorithms in Java** repository. This repos
    cd DSA-in-Java  
    ```  
 2. Explore the directories for notes and questions.  
-
----
