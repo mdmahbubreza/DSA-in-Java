@@ -19,6 +19,7 @@ Marks >=90 -> print “This is Good”
 Because marks don’t matter but our effort does.
 (Hint : use do-while loop but think & understand why)
 6. Print if a number is prime or not (Input n from the user).
+7. Implement a program to display the geometric sequence as given below for a given value n, where n is the number of elements in the sequence. 1, 2, 4, 8, 16, 32, 64, ......, 1024
    
 ==============PRINT USING LOOPS==============
 
